@@ -22,5 +22,4 @@ Fragments on tablet landscape mode
 
 ![Detail Activity on Landscape Tablet](https://raw.githubusercontent.com/test2209/assets-udacity-and/master/project-3-baking-app/screenshot-5.png)
 
->All the Asseets here
->https://github.com/test2209/assets-udacity-and/tree/master/project-3-baking-app
+
