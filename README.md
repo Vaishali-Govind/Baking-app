@@ -1,6 +1,6 @@
 # Baking App
-## Udacity Android Advanced Nanodegree
-*by Ioannis Anifantakis*
+
+*by Vaishali *
 
 >An application utilizing Fragments, Widgets, media playing via the Google's ExoPlayer library, various Lirbaries utilization, and Espresso Testing, via a list of recipes fetched from the bellow url in JSON form.
 >https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json
